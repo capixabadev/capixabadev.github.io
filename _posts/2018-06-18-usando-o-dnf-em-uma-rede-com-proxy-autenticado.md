@@ -3,6 +3,7 @@ layout: post
 title: Usando o DNF em uma rede com proxy autenticado
 author: Douglas Gusson 
 tags: [DNF, Fedora, Proxy]
+comments: true
 ---
 
 Usa o Fedora e precisa usar o gerenciador de pacotes em uma rede com proxy autenticado?! Então vamos ver como configurar o DNF.

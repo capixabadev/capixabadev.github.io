@@ -3,6 +3,7 @@ layout: post
 title:  Estruturas de decisão
 author: Douglas Gusson
 tags: [Programação]
+comments: true
 ---
 Na programação desenvolvemos estruturas de código que seguem um padrão de execução,
 porém nem sempre toda essa estrutura deve ser executada, ou não deve ser executada do

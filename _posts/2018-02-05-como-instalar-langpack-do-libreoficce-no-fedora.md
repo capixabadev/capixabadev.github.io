@@ -3,6 +3,7 @@ layout: post
 title: Como instalar pacotes de linguagem do LibreOffice no Fedora
 author: Douglas Gusson 
 tags: [LibreOffice, Fedora]
+comments: true
 ---
 
 Veja nesse post como instalar um pacote de linguagem do LibreOffice no Fedora.
