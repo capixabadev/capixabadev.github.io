@@ -23,6 +23,7 @@ minima:
     linkedin: douglasgusson
 
 
+show_excerpts: true
 permalink: /:title/
 
 
