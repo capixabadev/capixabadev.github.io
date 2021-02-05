@@ -4,9 +4,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 title: Capixaba Dev # the name of your site, e.g. ACME Corp.
 lang: pt-br
-tagline: Blog pessoal sobre programação
+tagline: Blog de programação, Linux e tecnologia em geral
 description: > # this means to ignore newlines until "show_excerpts:"
-  Blog pessoal sobre programação de um desenvolvedor em constante aprendizagem
+  Blog de programação, Linux e tecnologia em geral
 
 
 author:
@@ -16,11 +16,8 @@ author:
 minima:
   date_format: "%-d, %b %Y"
   social_links:
-    github:  douglasgusson
-    telegram: douglasgusson
-    youtube: douglasgusson
-    instagram: gussond
-    linkedin: douglasgusson
+    github:  capixabadev
+    telegram: capixabadev
 
 
 google_analytics: UA-163210642-1
