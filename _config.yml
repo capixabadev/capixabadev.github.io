@@ -33,7 +33,7 @@ sass:
   style: compressed
 
 
-paginate: 5
+paginate: 10
 paginate_path: "/:num/"
 
 
